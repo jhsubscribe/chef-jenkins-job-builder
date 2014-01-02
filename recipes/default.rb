@@ -6,7 +6,7 @@ yaml = value_for_platform_family({
 })
 
 if platform_family?('rhel')
-  include_recipe 'yum::epel'
+  include_recipe 'yum-epel'
 end
 
 package yaml do
