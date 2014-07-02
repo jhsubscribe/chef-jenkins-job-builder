@@ -1,4 +1,4 @@
-name                'jenkins-job-builder'
+name                'jenkins_job_builder'
 maintainer          'Cameron Johnston'
 maintainer_email    'cameron@needle.com'
 license             'Apache 2.0'
